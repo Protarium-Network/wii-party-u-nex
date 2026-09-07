@@ -1,0 +1,25 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.linux
+/build
+bruteforce
+capture
+wpu-nex
+wpu-token
+
+# Local
+.env
+.vscode
+.idea
+*.pem
+*.key
+*.pcap
+*.pcapng
+capture.log
+.DS_Store

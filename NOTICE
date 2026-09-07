@@ -1,0 +1,13 @@
+This server is built on the Pretendo Network NEX stack:
+
+  - github.com/PretendoNetwork/nex-go
+  - github.com/PretendoNetwork/nex-protocols-go
+  - github.com/PretendoNetwork/nex-protocols-common-go
+  - github.com/PretendoNetwork/plogger-go
+
+all licensed under the GNU Affero General Public License v3.0.
+
+The Wii Party U NEX access key (a5b77314) was recovered by brute-forcing the
+PRUDPv1 SYN signature against a handshake captured from a retail console
+(see docs/access-key-recovery.md). No proprietary Nintendo code or assets
+are included.
